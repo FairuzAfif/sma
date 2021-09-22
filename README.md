@@ -1,0 +1,2 @@
+# sma
+membuat multiple array 
